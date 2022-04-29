@@ -21,7 +21,7 @@ In order to use our model, we provide [our implementation in `src/model`](src/mo
 git clone https://github.com/corradomonti/learnable-opinion-dynamics.git
 cd learnable-opinion-dynamics
 conda env create -f environment.yml
-
+ conda activate opinion-dynamics 
 ```
 
 You can then use it in Python:
