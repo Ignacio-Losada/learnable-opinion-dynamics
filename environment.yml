@@ -4,6 +4,6 @@ dependencies:
     - python
     - pip
     - pip:
-         - tensorflow==1.15
-         - numpy==1.16.2
-         - scikit-learn==0.21.3
+         - tensorflow
+         - numpy
+         - scikit-learn
