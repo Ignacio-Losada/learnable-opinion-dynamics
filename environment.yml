@@ -4,6 +4,5 @@ dependencies:
     - python
     - pip
     - pip:
-         - tensorflow
          - numpy
          - scikit-learn
