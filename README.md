@@ -26,8 +26,12 @@ conda activate opinion-dynamics
 
 You can then use it in Python:
 
-```
->>> from model import learn_opinion_dynamics
+```python
+import sys
+path_to_github_repo = r'C:\Users\Ignac\Github\learnable-opinion-dynamics' 
+sys.path.insert(1, path_to_github_repo)
+
+from src.model import learn_opinion_dynamics
 ```
 
 Check its documentation [online](http://corradomonti.github.io/learnable-opinion-dynamics) or with:
