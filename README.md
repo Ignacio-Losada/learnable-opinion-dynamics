@@ -18,7 +18,7 @@ Here you will find instructions about (i) using the algorithm we designed (ii) o
 In order to use our model, we provide [our implementation in `src/model`](src/model). To use our model on your data, just clone this repo, install the dependencies, and then our model:
 
 ```
-git clone https://github.com/corradomonti/learnable-opinion-dynamics.git
+git clone https://github.com/Ignacio-Losada/learnable-opinion-dynamics.git
 cd learnable-opinion-dynamics
 conda env create -f environment.yml
 conda activate opinion-dynamics 
